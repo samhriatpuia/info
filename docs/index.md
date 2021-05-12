@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/samhriatpuia/info/edit/mai
 View the sample [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
 
 ### Want IOS/Android apps?
-View the sample [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
+View the sample [mobile app](https://raw.githubusercontent.com/samhriatpuia/info/main/Screenshot_20210512_205246.jpg)
 
 ```markdown
 Syntax highlighted code block
