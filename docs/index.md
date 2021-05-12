@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/samhriatpuia/info/edit/mai
 
 We make web and Mobile applications affordable.
 
-### Markdown
+# We can give you an interactive dashboard
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
