@@ -5,8 +5,8 @@ You can use the [editor on GitHub](https://github.com/samhriatpuia/info/edit/mai
 We make web and Mobile applications affordable.
 
 # We can give you an interactive dashboard
+![dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG)
 
-https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG
 
 ```markdown
 Syntax highlighted code block
