@@ -2,12 +2,12 @@
 
 You can use the [editor on GitHub](https://github.com/samhriatpuia/info/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-We make web and Mobile applications affordable.
+# We make web and Mobile applications affordable.
 
-# Want interactive websites?
+### Want interactive websites?
 View the sample [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
 
-# Want IOS/Android apps?
+### Want IOS/Android apps?
 View the sample [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
 
 ```markdown
