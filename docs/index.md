@@ -1,8 +1,4 @@
 ## Welcome to AndMove
-
-You can use the [editor on GitHub](https://github.com/samhriatpuia/info/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-
 ### Want interactive websites?
 View the sample [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
 
