@@ -5,8 +5,10 @@ You can use the [editor on GitHub](https://github.com/samhriatpuia/info/edit/mai
 We make web and Mobile applications affordable.
 
 # We can give you an interactive dashboard
-You can view the sample here [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
+View the sample here [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
 
+# And We can provide you with a IOS/Android mobile application
+View the sample here [dashboard](https://github.com/samhriatpuia/info/blob/main/fishinfo.JPG?raw=true)
 
 ```markdown
 Syntax highlighted code block
